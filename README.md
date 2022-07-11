@@ -1,3 +1,2 @@
 # GuessNumberGame
-This is an simple number guessing game
-.
+This is an simple number guessing game.
